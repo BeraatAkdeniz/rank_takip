@@ -16,7 +16,7 @@ Valorant gibi rank sistemli oyunlarda günlük maç sonuçlarını ve RR değiş
 Bilgisayarında Python 3 kurulu olması yeterli, ek kütüphane gerekmiyor.
 
 ```
-python rank_takip_v2.py
+python rank_takip.py
 ```
 
 Veriler aynı klasörde `maclar.json` dosyasına kaydedilir.
